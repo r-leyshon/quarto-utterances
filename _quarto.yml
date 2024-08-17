@@ -18,6 +18,6 @@ format:
     comments:
       utterances:
         repo: r-leyshon/quarto-utterances
-        label: "utterance" # optional
+        label: utterance # optional
         theme: icy-dark # optional
         issue-term: url
